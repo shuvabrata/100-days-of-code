@@ -20,4 +20,14 @@
 
 
 
+### Day 3: Nov 6, 2018
 
+**Today's progress**: Played around with different types of graph layouts, colors, line options
+
+**Thoughts:** Laying graph properly needs art and thinking about UXD. Need to study pre built templates. Maybe there already are many common usages. Why invent when there are design patterns.
+
+### Day x: MMM dd, 2018
+
+**Today's progress**:
+
+**Thoughts:**
