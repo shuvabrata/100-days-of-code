@@ -2,6 +2,7 @@
 # Ref: https://networkx.github.io/documentation/latest/reference/introduction.html
 
 import networkx as nx
+import matplotlib
 import matplotlib.pyplot as plt
 
 def get_graph():

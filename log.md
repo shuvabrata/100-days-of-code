@@ -26,6 +26,12 @@
 
 **Thoughts:** Laying graph properly needs art and thinking about UXD. Need to study pre built templates. Maybe there already are many common usages. Why invent when there are design patterns.
 
+### Day 4: Nov 7, 2018
+
+**Today's progress**: Learned basics of matplotlib and wrote some sample practice programs. 
+
+**Thoughts:** I fugured that this is not what I wanted to learn but good to know some basics. Learning basics is slow but necessaery. 
+
 ### Day x: MMM dd, 2018
 
 **Today's progress**:
