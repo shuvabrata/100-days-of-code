@@ -30,7 +30,7 @@
 
 **Today's progress**: Learned basics of matplotlib and wrote some sample practice programs. 
 
-**Thoughts:** I fugured that this is not what I wanted to learn but good to know some basics. Learning basics is slow but necessaery. 
+**Thoughts:** I figured that this is not what I wanted to learn but good to know some basics. Learning basics is slow but necessaery. 
 
 ### Day x: MMM dd, 2018
 
