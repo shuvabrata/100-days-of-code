@@ -41,13 +41,13 @@ def plot_using_subplot():
 
     ax2 = fig.add_subplot(222)
     x = np.linspace(start=0, stop=10, num=50)
-    ax2.plot(x, np.sin(x))
+    ax2.plot(x, np.sin(x), color='green')
 
     ax3 = fig.add_subplot(223)
-    ax3.plot(x, np.cos(x))
+    ax3.plot(x, np.cos(x), linestyle=':')
 
     ax4 = fig.add_subplot(224)
-    ax4.plot(x, np.tan(x))
+    ax4.plot(x, np.tan(x), color='m')
 
     plt.show()
 
