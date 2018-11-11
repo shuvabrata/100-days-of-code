@@ -32,6 +32,12 @@
 
 **Thoughts:** I figured that this is not what I wanted to learn but good to know some basics. Learning basics is slow but necessary. 
 
+### Day 5: Nov 11, 2018
+
+**Today's progress**: Wrote a [program](TyreStats/src/com/shuva/tyrestats/TyreStats.java) to calculate how much my car tyre has worn out.
+
+**Thoughts:** Apparently its time to replace the tyres. The odometer is not bad.
+
 ### Day x: MMM dd, 2018
 
 **Today's progress**:
