@@ -31,7 +31,7 @@ public class TyreStats {
 
         System.out.println("But the tyres were worn out and effective circumference was less. So the distance actually travelled would be less.");
         System.out.println("As per Google maps, the distance travelled is " + actualDistance + " kms.");
-        System.out.println("There is a difference of " + (odometerDistance - actualDistance) + " mm");
+        System.out.println("There is a difference of " + (odometerDistance - actualDistance) + " kms");
 
         System.out.println("How much did the tyre wear out?");
 
