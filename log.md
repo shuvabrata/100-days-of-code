@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+﻿# 100 Days Of Code - Log
 
 ### Day 1: Nov 4, 2018
 
@@ -37,6 +37,12 @@
 **Today's progress**: Wrote a [program](TyreStats/src/com/shuva/tyrestats/TyreStats.java) to calculate how much my car tyre has worn out.
 
 **Thoughts:** Apparently its time to replace the tyres. The odometer is not bad.
+
+### Day 6: Nov 18, 2018
+
+**Today's progress**: Played around with IDE with some basics of Maven and repositories. 
+
+**Thoughts:** Learning some fundamentals. Nothing much code written.
 
 ### Day x: MMM dd, 2018
 
