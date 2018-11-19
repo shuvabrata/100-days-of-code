@@ -44,6 +44,12 @@
 
 **Thoughts:** Learning some fundamentals. Nothing much code written.
 
+### Day 7: Nov 19, 2018
+
+**Today's progress**: Sample Python practice. Classes, flask, 
+
+**Thoughts:**: Things are getting better.
+
 ### Day x: MMM dd, 2018
 
 **Today's progress**:
