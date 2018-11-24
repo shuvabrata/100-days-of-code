@@ -50,6 +50,12 @@
 
 **Thoughts:**: Things are getting better.
 
+### Day 8: Nov 24, 2018
+
+**Today's progress**: Played around with Sprint Boot Async work thread creation concepts.
+
+**Thoughts:** I dont like opinionated frameworks. Its a hit or a miss. 
+
 ### Day x: MMM dd, 2018
 
 **Today's progress**:
